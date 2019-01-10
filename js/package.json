@@ -1,0 +1,11 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Hello world sample file",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "VaclavM",
+  "license": "MIT"
+}
